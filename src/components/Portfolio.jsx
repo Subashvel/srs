@@ -11,8 +11,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: foodready,
-      link: 'https://foodreadyapp.vercel.app/',
-      repo: 'https://github.com/Subashvel/foodreadyapp.git'
+      link: 'https://food-order-app-subashvel.vercel.app/',
+      repo: 'https://github.com/Subashvel/food-order-app.git'
     },
     {
       id: 2,

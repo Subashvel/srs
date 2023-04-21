@@ -21,6 +21,7 @@ import chrome from "../assets/chrome.png"
 import npm from "../assets/npm.png"
 import yarn from "../assets/yarn.png"
 import netlify from "../assets/netlify.png"
+
 import firebase from "../assets/firebase.png"
 const Experience = () => {
   const techs = [
