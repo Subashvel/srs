@@ -5,7 +5,7 @@ import {
 	FiLinkedin,
 	FiGlobe,
 	
-  FiPhoneCall,
+  FiMail,
 } from 'react-icons/fi';
 
 
@@ -32,8 +32,8 @@ const socialLinks = [
 	},
 	{
 		id: 5,
-		icon: <FiPhoneCall />,
-		url: 'https://www.youtube.com/c/realstoman',
+		icon: <FiMail />,
+		url: '',
 	},
 ];
 
